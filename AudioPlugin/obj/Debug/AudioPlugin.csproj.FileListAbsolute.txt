@@ -1,0 +1,10 @@
+C:\Users\Eric\Documents\AudioPlugin\AudioPlugin\bin\Debug\AudioPlugin.dll
+C:\Users\Eric\Documents\AudioPlugin\AudioPlugin\bin\Debug\AudioPlugin.pdb
+C:\Users\Eric\Documents\AudioPlugin\AudioPlugin\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Eric\Documents\AudioPlugin\AudioPlugin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Eric\Documents\AudioPlugin\AudioPlugin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Eric\Documents\AudioPlugin\AudioPlugin\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Eric\Documents\AudioPlugin\AudioPlugin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Eric\Documents\AudioPlugin\AudioPlugin\obj\Debug\AudioPlugin.dll
+C:\Users\Eric\Documents\AudioPlugin\AudioPlugin\obj\Debug\AudioPlugin.pdb
+C:\Users\Eric\Documents\AudioPlugin\AudioPlugin\obj\Debug\AudioPlugin.csprojResolveAssemblyReference.cache

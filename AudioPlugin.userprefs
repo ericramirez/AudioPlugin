@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Droid\AudioPlugin.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid\AudioService_Android.cs">
+    <Files>
+      <File FileName="AudioPlugin\Services\IAudio.cs" Line="1" Column="1" />
+      <File FileName="Droid\AudioService_Android.cs" Line="21" Column="23" />
+      <File FileName="AudioPlugin\AudioPlugin.cs" Line="1" Column="1" />
+      <File FileName="AudioPlugin\MainPage.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
